@@ -1,2 +1,2 @@
 # javascript_projects
-fun independent javascript projects
+fun independent javascript projects!
